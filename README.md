@@ -27,4 +27,4 @@ You can set the search depth for the model in game.py , the compiled binary has 
 pip install -r requirements.txt
 ```
 ## Compiled Binaries
-  you can download the bundled exe file from here  - <a href ='https://drive.google.com/file/d/1ZTZupO2g8Ky8WV6ZRV1M-iiPw8qtlPdc/view?usp=drive_link'> LINK <\a>
+  you can download the bundled exe file from here  - <a href ='https://drive.google.com/file/d/1ZTZupO2g8Ky8WV6ZRV1M-iiPw8qtlPdc/view?usp=drive_link'> LINK </a>
