@@ -14,10 +14,10 @@ You can set the search depth for the model in game.py , the compiled binary has 
 ---
 
 ## 🗂️ File Structure
--/src_file:
-   1.game.py - main files which contains the logic for gui with pygame and move prediction through the trained model
-   2.dataset.py - can be used to create a dataset of randomly generated positons , requires stockfish to label them (used for previous version of CNN)
-   3.pgn_to_fen.py - can be used to convert pgn gamefiles into seperate datasets of opening, mid game and end game positions(requires stockfish)
+-/src_file:<br>
+   1.game.py - main files which contains the logic for gui with pygame and move prediction through the trained model<br>
+   2.dataset.py - can be used to create a dataset of randomly generated positons , requires stockfish to label them (used for previous version of CNN)<br>
+   3.pgn_to_fen.py - can be used to convert pgn gamefiles into seperate datasets of opening, mid game and end game positions(requires stockfish)<br>
 
 ## ⚠️ Requirements
 
@@ -27,4 +27,4 @@ You can set the search depth for the model in game.py , the compiled binary has 
 pip install -r requirements.txt
 ```
 ## Compiled Binaries
-  you can download the bundled exe file from here  - 
+  you can download the bundled exe file from here  - <a href ='https://drive.google.com/file/d/1ZTZupO2g8Ky8WV6ZRV1M-iiPw8qtlPdc/view?usp=drive_link'> LINK <\a>
